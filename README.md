@@ -2,6 +2,8 @@
 
 This is a backend identity reconciliation service built using Next.js and Prisma (backed by Neon PostgreSQL). It processes customer contact information (email and phone number) from checkout events and links them together, identifying a primary account and associating secondary contacts.
 
+DEploy Link: https://bspeed.vercel.app/
+
 ## Tech Stack
 
 - **Framework:** Next.js (App Router API Routes)
